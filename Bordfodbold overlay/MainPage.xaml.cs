@@ -26,5 +26,10 @@ namespace Bordfodbold_overlay
         {
             this.InitializeComponent();
         }
+
+        private void listView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
